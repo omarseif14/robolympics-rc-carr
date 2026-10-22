@@ -8,6 +8,7 @@ An ESP32-powered RC car with AI object detection and a robotic arm, built for th
 - Remote-controlled driving using ESP32
 - AI object detection
 - Robotic arm controlled by the system
+- Shooting mechanism
 
 ## Competition
 - Aviation Club Robolympics
