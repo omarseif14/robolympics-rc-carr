@@ -19,8 +19,7 @@ An ESP32-powered RC car with AI object detection and a robotic arm, built for th
 |------|---------|
 | Microcontroller | ESP32 |
 | Motor driver | [L298N] |
-| Motors | [JGA25-370] |
-| Robotic arm | [number of servos] |
+| Motors | [4x JGA25-370] |
 | Camera | [ESP32 Cam] |
 | Power | [2x 3.7Vx3 lithium ion battery] |
 
